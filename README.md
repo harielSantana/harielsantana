@@ -1,7 +1,10 @@
 <h1 align="center"> Opa, pessoal! Aqui é o Hariel </h1>
 
 
-**harielSantana/harielsantana** 
+<h3>My Website</h3>
+<br/>
+
+`harielsantana.github.io/hariel-website/`
 
 Com esse repositório eu quero compartilhar um pouco dos meus conhecimentos de programação e contar um pouco sobre mim:
 
