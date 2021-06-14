@@ -9,7 +9,8 @@ Com esse repositório eu quero compartilhar um pouco dos meus conhecimentos de p
 
 
 <p>My Website</p>
-<hr/>
+
 `harielsantana.github.io/hariel-website/`
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harielsantana&show_icons=true&theme=flag-india)
