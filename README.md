@@ -2,7 +2,7 @@
 
 
 <h3>My Website</h3>
-<br/>
+<hr/>
 
 `harielsantana.github.io/hariel-website/`
 
