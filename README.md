@@ -1,4 +1,4 @@
-<h1 align="center"> Opa, pessoal! Aqui é o Hariel </h1>
+<h1> Opa, pessoal. Aqui é o Hariel! 🎉🎇 </h1>
 
 
 <h3>My Website</h3>
