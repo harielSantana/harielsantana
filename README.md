@@ -3,9 +3,8 @@
 
 Com esse repositório eu quero compartilhar um pouco dos meus conhecimentos de programação e contar um pouco sobre mim:
 
-- 🌱 I’m currently learning React and Node.js 
-- 👯 I’m looking to collaborate on a great community of programmers!
-- 🎈 My main skills are in `html`, `css`, `Javascript` and `Python`
+- 🌱 Eu atualmente estou desenvolvendo em React e React Native .
+- 🎈 Minha principal stack é Javascript.
 
 
 <p>My Website</p>
