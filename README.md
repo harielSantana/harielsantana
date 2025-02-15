@@ -29,7 +29,6 @@ Aqui você encontrará diversos projetos que refletem minha experiência e habil
 
 - **Consultoria**: Posso oferecer consultoria em desenvolvimento full stack, ajudando a escolher as melhores tecnologias e práticas para seu projeto.
 - **Colaboração**: Estou aberto a colaborar em projetos open-source ou em iniciativas que tragam impacto positivo.
-- **Mentoria**: Se você está começando na programação ou quer aprimorar suas habilidades, estou disponível para mentoria e orientação.
 
 ## Contato
 
