@@ -4,11 +4,11 @@ Bem-vindos ao meu repositório! Sou Hariel, um desenvolvedor full stack apaixona
 
 ## Sobre Mim
 
-- 🌱 Atualmente, estou focado no desenvolvimento com **React** e **React Native**, criando interfaces dinâmicas e responsivas.
-- 🎈 Minha principal stack é **JavaScript**, mas também tenho sólida experiência com **Java** e **PHP**.
-- 📚 Sempre em busca de novos conhecimentos, estou constantemente aprendendo e experimentando novas tecnologias e metodologias.
-- 💬 Gosto de colaborar e trocar ideias sobre desenvolvimento, então sinta-se à vontade para entrar em contato!
-
+- 🌱 Atualmente, estou focado no desenvolvimento Full Stack, trabalhando com Python, PHP, JavaScript e Java para criar interfaces dinâmicas e responsivas.
+-🎈 Minha principal stack é JavaScript, mas também tenho sólida experiência com Java e PHP.
+-📚 Sempre em busca de novos aprendizados, estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades.
+- 💬 Gosto de trocar ideias e colaborar em projetos de desenvolvimento, então sinta-se à vontade para entrar em contato! 🚀
+  
 ## Tecnologias que Utilizo
 
 ### Backend:
