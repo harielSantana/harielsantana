@@ -1,42 +1,54 @@
 # Opa, pessoal! Aqui é o Hariel! 🎉🎇
 
-Bem-vindos ao meu repositório! Sou Hariel, um desenvolvedor full stack apaixonado por tecnologia e inovação. Com experiência em diversas linguagens e frameworks, estou sempre em busca de novos desafios e aprendizados. Aqui, vou compartilhar um pouco sobre meus conhecimentos de programação e sobre mim.
+Bem-vindos ao meu repositório!  
+Sou Hariel, desenvolvedor full stack pleno, apaixonado por tecnologia, inovação e boas práticas de desenvolvimento e infraestrutura.
 
 ## Sobre Mim
 
-- 🌱 Atualmente, estou focado no desenvolvimento Full Stack, trabalhando com Python, PHP, JavaScript e Java para criar interfaces dinâmicas e responsivas.
--🎈 Minha principal stack é JavaScript, mas também tenho sólida experiência com Java e PHP.
--📚 Sempre em busca de novos aprendizados, estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades.
-- 💬 Gosto de trocar ideias e colaborar em projetos de desenvolvimento, então sinta-se à vontade para entrar em contato! 🚀
-  
+- 🌱 Atualmente, atuo como desenvolvedor pleno, trabalhando com diversas tecnologias para construir aplicações escaláveis, seguras e eficientes.  
+- 🎈 Minha principal stack é JavaScript (React, Next.js, Node.js), mas também tenho experiência sólida com Java, PHP e Python.  
+- 🚀 Além do desenvolvimento, estou envolvido com infraestrutura e DevOps, usando Docker, Kubernetes, CI/CD e automação para entregar soluções completas.  
+- 💬 Gosto de compartilhar conhecimento, colaborar em projetos e sempre aprender algo novo.
+
 ## Tecnologias que Utilizo
 
-### Backend:
-- **Laravel**: Utilizo Laravel para desenvolver aplicações robustas e seguras, aproveitando seu ecossistema rico e ferramentas integradas.
-- **Node.js**: Com **NestJS** para construir aplicações escaláveis e modulares e **Express** para criar APIs rápidas e eficientes.
-- **Java**: Desenvolvo APIs e serviços backend com Java, utilizando frameworks como Spring Boot.
+### Backend  
+- **Node.js** (NestJS, Express)  
+- **Java** (Spring Boot)  
+- **PHP** (Laravel)  
+- **Python** (Básico e scripts para automação)
 
-### Frontend:
-- **React**: Crio interfaces de usuário interativas e performáticas, aproveitando as capacidades do React para componentização e estado.
-- **Next.js**: Desenvolvo aplicações React com renderização no lado do servidor (SSR) e geração estática (SSG) para melhorar SEO e performance.
-- **Angular**: Construo aplicações web complexas e bem estruturadas com Angular, aproveitando seu poderoso sistema de templates e injeção de dependência.
+### Frontend  
+- **React.js**  
+- **Next.js**  
+- **Angular**
+
+### Infraestrutura & DevOps  
+- **Docker**: Criação e gerenciamento de containers para ambientes isolados e consistentes.  
+- **Kubernetes**: Orquestração de containers para escalabilidade e alta disponibilidade.  
+- **CI/CD**: Pipelines automatizadas usando GitHub Actions, GitLab CI e Jenkins.  
+- **Cloud Providers**: Experiência com AWS (EC2, S3, RDS) e serviços gerenciados.  
+- **Infraestrutura como Código**: Conhecimento básico em Terraform e Ansible para provisionamento e configuração automatizada.  
+- **Monitoramento & Logs**: Uso de Prometheus, Grafana e ELK Stack para observabilidade.
 
 ## Projetos
 
-Aqui você encontrará diversos projetos que refletem minha experiência e habilidades com essas tecnologias. Cada projeto é uma oportunidade de aprendizado e demonstração das minhas competências em diferentes áreas do desenvolvimento de software. Sinta-se à vontade para explorar, clonar e contribuir!
+Aqui você encontra projetos que mostram minhas habilidades tanto no desenvolvimento frontend/backend quanto em configuração e automação de infraestrutura. Sempre buscando qualidade e escalabilidade.
 
 ## Como Posso Ajudar?
 
-- **Consultoria**: Posso oferecer consultoria em desenvolvimento full stack, ajudando a escolher as melhores tecnologias e práticas para seu projeto.
-- **Colaboração**: Estou aberto a colaborar em projetos open-source ou em iniciativas que tragam impacto positivo.
+- Desenvolvimento full stack com foco em boas práticas, escalabilidade e performance.  
+- Implantação e manutenção de ambientes em containers e orquestração com Kubernetes.  
+- Automação de processos de build, testes e deploy com pipelines CI/CD.  
+- Consultoria e colaboração em projetos que integrem desenvolvimento e infraestrutura.
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- [Email](mailto:seuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+- [Email](mailto:seuemail@example.com)  
 
-Fique à vontade para entrar em contato ou me seguir nas redes sociais. Vamos colaborar e crescer juntos na jornada do desenvolvimento!
+Vamos trocar uma ideia? Fique à vontade para me contatar!
 
 ---
 
-Muito obrigado por visitar meu repositório. Espero que encontre algo útil e inspirador aqui. Vamos codar! 🚀
+Obrigado pela visita ao meu repositório! Vamos codar e entregar valor juntos. 🚀
