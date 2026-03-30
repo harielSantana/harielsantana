@@ -1,54 +1,100 @@
-# Opa, pessoal! Aqui é o Hariel! 🎉🎇
+# 👋 Fala, pessoal! Eu sou o Hariel
 
-Bem-vindos ao meu repositório!  
-Sou Hariel, desenvolvedor full stack pleno, apaixonado por tecnologia, inovação e boas práticas de desenvolvimento e infraestrutura.
+Sou um desenvolvedor full stack em evolução para arquiteto de software e gestor de projetos, focado em construir soluções escaláveis, resilientes e orientadas a negócio.
 
-## Sobre Mim
-
-- 🌱 Atualmente, atuo como desenvolvedor pleno, trabalhando com diversas tecnologias para construir aplicações escaláveis, seguras e eficientes.  
-- 🎈 Minha principal stack é JavaScript (React, Next.js, Node.js), mas também tenho experiência sólida com Java, PHP e Python.  
-- 🚀 Além do desenvolvimento, estou envolvido com infraestrutura e DevOps, usando Docker, Kubernetes, CI/CD e automação para entregar soluções completas.  
-- 💬 Gosto de compartilhar conhecimento, colaborar em projetos e sempre aprender algo novo.
-
-## Tecnologias que Utilizo
-
-### Backend  
-- **Node.js** (NestJS, Express)  
-- **Java** (Spring Boot)  
-- **PHP** (Laravel)  
-- **Python** (Básico e scripts para automação)
-
-### Frontend  
-- **React.js**  
-- **Next.js**  
-- **Angular**
-
-### Infraestrutura & DevOps  
-- **Docker**: Criação e gerenciamento de containers para ambientes isolados e consistentes.  
-- **Kubernetes**: Orquestração de containers para escalabilidade e alta disponibilidade.  
-- **CI/CD**: Pipelines automatizadas usando GitHub Actions, GitLab CI e Jenkins.  
-- **Cloud Providers**: Experiência com AWS (EC2, S3, RDS) e serviços gerenciados.  
-- **Infraestrutura como Código**: Conhecimento básico em Terraform e Ansible para provisionamento e configuração automatizada.  
-- **Monitoramento & Logs**: Uso de Prometheus, Grafana e ELK Stack para observabilidade.
-
-## Projetos
-
-Aqui você encontra projetos que mostram minhas habilidades tanto no desenvolvimento frontend/backend quanto em configuração e automação de infraestrutura. Sempre buscando qualidade e escalabilidade.
-
-## Como Posso Ajudar?
-
-- Desenvolvimento full stack com foco em boas práticas, escalabilidade e performance.  
-- Implantação e manutenção de ambientes em containers e orquestração com Kubernetes.  
-- Automação de processos de build, testes e deploy com pipelines CI/CD.  
-- Consultoria e colaboração em projetos que integrem desenvolvimento e infraestrutura.
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-- [Email](mailto:seuemail@example.com)  
-
-Vamos trocar uma ideia? Fique à vontade para me contatar!
+Atuo conectando tecnologia, arquitetura e produto para entregar sistemas que realmente geram valor.
 
 ---
 
-Obrigado pela visita ao meu repositório! Vamos codar e entregar valor juntos. 🚀
+## 🚀 Sobre mim
+
+- 💼 Experiência prática no desenvolvimento de sistemas distribuídos, APIs e plataformas escaláveis
+- 🧠 Evoluindo de desenvolvedor para **arquiteto de software**, com foco em:
+  - Microserviços
+  - Arquitetura orientada a eventos
+  - Sistemas resilientes e observáveis
+- ⚙️ Atuação forte em **backend + infraestrutura + cloud**
+- 📊 Interesse crescente em **produto, métricas e tomada de decisão técnica**
+- 🤝 Também atuando como ponte entre **negócio, produto e tecnologia**
+
+---
+
+## 🧩 O que eu faço hoje
+
+- Projeto arquiteturas para sistemas escaláveis (backend + cloud)
+- Desenvolvimento de APIs robustas e bem estruturadas
+- Estruturação de ambientes com foco em **performance, segurança e custo**
+- Definição de padrões técnicos (clean code, DDD, SOLID)
+- Apoio na tomada de decisão técnica e evolução de sistemas legados
+- Organização de fluxos de desenvolvimento e entrega (CI/CD)
+
+---
+
+## 🛠️ Stack & Tecnologias
+
+### Backend
+- Node.js (NestJS)
+- Java (Spring Boot)
+- PHP (Laravel)
+
+### Frontend
+- React.js
+- Next.js
+
+### Infraestrutura & Cloud
+- AWS (ECS, S3, RDS, ALB, CloudWatch)
+- Docker & Docker Compose
+- CI/CD (GitHub Actions)
+
+### Arquitetura & Boas práticas
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- SOLID
+- Event-driven architecture
+- Observabilidade (logs, métricas e tracing)
+
+---
+
+## 🧠 Mentalidade
+
+Mais do que tecnologia, acredito em:
+
+- Resolver problemas reais
+- Criar sistemas sustentáveis a longo prazo
+- Reduzir complexidade, não aumentar
+- Pensar em escala desde o início
+- Construir com visão de produto, não só código
+
+---
+
+## 📌 Projetos
+
+Aqui você vai encontrar projetos que refletem minha evolução:
+
+- Sistemas backend escaláveis
+- Integrações com IoT e mensageria
+- Arquiteturas baseadas em eventos
+- Estruturação de ambientes cloud
+
+---
+
+## 🤝 Como posso contribuir
+
+- Arquitetura de sistemas (do zero ou evolução de legado)
+- Desenvolvimento backend com foco em escala
+- Estruturação de ambientes cloud (AWS)
+- Definição de padrões técnicos
+- Apoio técnico estratégico em projetos
+
+---
+
+## 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/seulinkedin  
+- Email: seuemail@example.com  
+
+---
+
+💡 Sempre aberto a trocar ideia sobre arquitetura, sistemas distribuídos e tecnologia.
+
+Vamos construir algo grande 🚀
