@@ -1,100 +1,52 @@
-# 👋 Fala, pessoal! Eu sou o Hariel
+# 👋 Hariel Santana
 
-Sou um desenvolvedor full stack em evolução para arquiteto de software e gestor de projetos, focado em construir soluções escaláveis, resilientes e orientadas a negócio.
-
-Atuo conectando tecnologia, arquitetura e produto para entregar sistemas que realmente geram valor.
+**Software Engineer** focado em arquitetura de sistemas, backend e cloud.
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre
 
-- 💼 Experiência prática no desenvolvimento de sistemas distribuídos, APIs e plataformas escaláveis
-- 🧠 Evoluindo de desenvolvedor para **arquiteto de software**, com foco em:
-  - Microserviços
-  - Arquitetura orientada a eventos
-  - Sistemas resilientes e observáveis
-- ⚙️ Atuação forte em **backend + infraestrutura + cloud**
-- 📊 Interesse crescente em **produto, métricas e tomada de decisão técnica**
-- 🤝 Também atuando como ponte entre **negócio, produto e tecnologia**
+Atuo na construção e evolução de sistemas distribuídos, com foco em escalabilidade, resiliência e clareza arquitetural.
+
+Tenho facilidade em absorver novos contextos rapidamente e atuar na resolução de problemas complexos, principalmente em cenários de produção.
 
 ---
 
-## 🧩 O que eu faço hoje
+## ⚙️ Especialidades
 
-- Projeto arquiteturas para sistemas escaláveis (backend + cloud)
-- Desenvolvimento de APIs robustas e bem estruturadas
-- Estruturação de ambientes com foco em **performance, segurança e custo**
-- Definição de padrões técnicos (clean code, DDD, SOLID)
-- Apoio na tomada de decisão técnica e evolução de sistemas legados
-- Organização de fluxos de desenvolvimento e entrega (CI/CD)
-
----
-
-## 🛠️ Stack & Tecnologias
-
-### Backend
-- Node.js (NestJS)
-- Java (Spring Boot)
-- PHP (Laravel)
-
-### Frontend
-- React.js
-- Next.js
-
-### Infraestrutura & Cloud
-- AWS (ECS, S3, RDS, ALB, CloudWatch)
-- Docker & Docker Compose
-- CI/CD (GitHub Actions)
-
-### Arquitetura & Boas práticas
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- SOLID
-- Event-driven architecture
-- Observabilidade (logs, métricas e tracing)
+* Arquitetura de sistemas (microservices & event-driven)
+* Desenvolvimento backend robusto e escalável
+* Integração com mensageria e sistemas IoT
+* Cloud & infraestrutura (AWS)
+* Observabilidade e confiabilidade de sistemas
+* Evolução de sistemas legados
+* Resolução de problemas em ambientes críticos
 
 ---
 
-## 🧠 Mentalidade
+## 🛠️ Stack
 
-Mais do que tecnologia, acredito em:
-
-- Resolver problemas reais
-- Criar sistemas sustentáveis a longo prazo
-- Reduzir complexidade, não aumentar
-- Pensar em escala desde o início
-- Construir com visão de produto, não só código
+**Backend:** Node.js (NestJS), Java (Spring Boot), PHP (Laravel)
+**Frontend:** React, Next.js
+**Cloud & Infra:** AWS, Docker, CI/CD
+**Arquitetura:** DDD, Clean Architecture, SOLID
 
 ---
 
-## 📌 Projetos
+## 📌 Foco atual
 
-Aqui você vai encontrar projetos que refletem minha evolução:
-
-- Sistemas backend escaláveis
-- Integrações com IoT e mensageria
-- Arquiteturas baseadas em eventos
-- Estruturação de ambientes cloud
-
----
-
-## 🤝 Como posso contribuir
-
-- Arquitetura de sistemas (do zero ou evolução de legado)
-- Desenvolvimento backend com foco em escala
-- Estruturação de ambientes cloud (AWS)
-- Definição de padrões técnicos
-- Apoio técnico estratégico em projetos
+* Arquitetura orientada a eventos
+* Sistemas distribuídos e resilientes
+* Boas práticas de engenharia de software
+* Decisão técnica orientada a negócio
 
 ---
 
 ## 📬 Contato
 
-- LinkedIn: https://www.linkedin.com/in/seulinkedin  
-- Email: seuemail@example.com  
+* LinkedIn: [https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/hariel-santana/)
+* Email: [seuemail@example.com](mailto:hariel.santana231@gmail.com)
 
 ---
 
-💡 Sempre aberto a trocar ideia sobre arquitetura, sistemas distribuídos e tecnologia.
-
-Vamos construir algo grande 🚀
+> Construindo sistemas que escalam, com foco em resolver problemas reais.
