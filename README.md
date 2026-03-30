@@ -1,10 +1,10 @@
-# 👋 Hariel Santana
+#  Hariel Santana
 
 **Software Engineer** focado em arquitetura de sistemas, backend e cloud.
 
 ---
 
-## 🧠 Sobre
+##  Sobre
 
 Atuo na construção e evolução de sistemas distribuídos, com foco em escalabilidade, resiliência e clareza arquitetural.
 
@@ -12,7 +12,7 @@ Tenho facilidade em absorver novos contextos rapidamente e atuar na resolução 
 
 ---
 
-## ⚙️ Especialidades
+##  Especialidades
 
 * Arquitetura de sistemas (microservices & event-driven)
 * Desenvolvimento backend robusto e escalável
@@ -24,7 +24,7 @@ Tenho facilidade em absorver novos contextos rapidamente e atuar na resolução 
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 **Backend:** Node.js (NestJS), Java (Spring Boot), PHP (Laravel)
 **Frontend:** React, Next.js
@@ -33,7 +33,7 @@ Tenho facilidade em absorver novos contextos rapidamente e atuar na resolução 
 
 ---
 
-## 📌 Foco atual
+##  Foco atual
 
 * Arquitetura orientada a eventos
 * Sistemas distribuídos e resilientes
@@ -42,7 +42,7 @@ Tenho facilidade em absorver novos contextos rapidamente e atuar na resolução 
 
 ---
 
-## 📬 Contato
+##  Contato
 
 * LinkedIn: [https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/hariel-santana/)
 * Email: [seuemail@example.com](mailto:hariel.santana231@gmail.com)
